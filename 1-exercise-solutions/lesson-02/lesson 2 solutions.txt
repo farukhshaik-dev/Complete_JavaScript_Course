@@ -7,7 +7,8 @@
 
 🔴 Challenging:
 2c. 3 lamps at ₹320 each and 2 extension boards at ₹450 each, ₹60 delivery, 10% tax
-→ (3 × 320 + 2 × 450 + 60) × 1.10 = ₹2112
+→ (3 × 320 + 2 × 450 + 60) × 0.1 = 192
+→ 1920 + 192 = ₹2112
 
 2d. 4 posters at ₹150 each + 1 frame ₹900, ₹100 discount, ₹50 delivery, 10% tax
 → (4 × 150 + 900 − 100 + 50) × 1.10 = ₹1595
